@@ -1,6 +1,7 @@
 # README
 
 Kawaii theme.
+Based off the Kawaii theme by diff001a with a few language specific changes.
 
 ## Development
 
